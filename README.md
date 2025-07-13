@@ -30,11 +30,3 @@ This is a **Streamlit-based Stock Market Dashboard** that allows users to visual
 > This app uses **Yahoo Finance data via `yfinance`**, which may be **delayed by up to 15–20 minutes**. It does **not show true real-time stock prices**. For real-time data, you'd need a premium data API.
 
 ---
-
-## Getting Started Locally
-
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
